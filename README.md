@@ -1,3 +1,10 @@
-```sh
-npm install react-router-dom@6
+# movie finder
+
+
+```
+git clone url
+
+npm i 
+
+npm start 
 ```
